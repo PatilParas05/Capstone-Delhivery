@@ -1,7 +1,5 @@
 # Delhivery Last-Mile Delay Intelligence Pipeline
 
-**Program:** Artificial Intelligence and Machine Learning Certification Program · E&ICT Academy, IIT Roorkee  
-**Repository Branch:** `main` (Default Branch)  
 **Deliverable:** End-to-End Last-Mile Delivery Time Regression, Proactive Delay Classification, and Regional Hub Segmentation System
 
 ---
